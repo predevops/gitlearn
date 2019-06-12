@@ -5,3 +5,4 @@ eat ghee
 eat coldrink
 eat sugar
 drink water
+drink wine
