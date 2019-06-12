@@ -1,5 +1,8 @@
 this is first file
 eat pizza
+<<<<<<< HEAD
 eat samosa
 eat ghee
 eat coldrink
+=======
+>>>>>>> parent of c599265... add samosa and ghee
