@@ -4,3 +4,4 @@ eat samosa
 eat ghee
 eat coldrink
 eat sugar
+drink water
