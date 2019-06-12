@@ -5,4 +5,9 @@ eat ghee
 eat coldrink
 eat sugar
 drink water
+<<<<<<< HEAD
 drink winesta
+=======
+drink wine
+hi this
+>>>>>>> master
